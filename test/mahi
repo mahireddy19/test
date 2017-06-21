@@ -1,0 +1,16 @@
+Over 4+ years of experience in Linux Administration, Build and Release management involving extensive work towards code compilation, packaging, building, debugging, automating, managing, tuning and deploying code across multiple environments and Linux Administration
+Experience in using configuration management tools like Ansible, Chef.
+Experienced in Docker in building containers in automating the creation and deployment.
+Good understanding of infrastructure automation using Ansible. 
+Extensively worked on JENKINS, for continuous integration and for End to End automation for all build and deployments.
+Setting up databases in AWS using RDS, storage using S3 bucket and configuring instance backups to S3 bucket.
+Installed, configured and maintained DNS systems using Route53 (AWS).
+Created Build Pipelines in Jenkins using Build Pipeline and Multiline view plugins, which will show the complete set of jobs, which are running as part of CI setup in a single page.
+Extensively worked with Version Control Systems like SVN (Subversion), GIT, and GITHUB.
+Good Knowledge in bash (shell) scripting.
+Developed Chef Cookbooks to manage systems configuration.
+Extensively worked on Amazon web services (AWS) cloud instances. Created EC2 instances, generated key pairs, dedicated hosts, volumes, Load Balancers and Security Groups and worked on EFS.
+Design roles and groups for users and resources using AWS Identity Access Management (IAM). 
+Created snapshots and AMI (Amazon Machine Images) of instance for backup. 
+Experienced in Cloud automation using AWS Cloud Formation template. 
+Experience in performing system monitoring using Cloud Watch in AWS.
