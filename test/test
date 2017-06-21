@@ -1,3 +1,41 @@
 iam new to git
 i have add new file
 mahendra waste fellow
+mkdir gitdemo   
+cd 
+git init
+cd .git
+git add test
+
+git status
+git commit -m "initial commit"
+git stauts
+nano test
+#iam new to test
+git status
+git commit
+git log
+cat test
+git chekout 6297c
+git chekout master
+git stash
+git stash list
+git stash pop
+cat test
+git commit
+sha1sum test
+#for creating branch
+git checkout -b develop
+git branch -a
+git status
+nano test
+git add .
+git commit -m 
+
+git merge develop #for mergeing two branches
+
+
+git remote add origin "   "
+git fetch
+git push origin master
+
