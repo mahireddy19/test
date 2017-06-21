@@ -1,3 +1,11 @@
 iam new to git
 i have add new file
 mahendra waste fellow
+salaries = LOAD '/user/mahi/sf-salaries-2014.csv' USING PigStorage(',')  as (id:int,name:chararray);
+2   salaries = LOAD '/user/mahi/sf-salaries-2014.csv' USING PigStorage(',')  as (id:int,name:chararray,designation:chararray);
+3   salaries = LOAD '/user/mahi/sf-salaries-2014.csv' USING PigStorage(',')  as (id:int,name:chararray,designation:chararray);
+salaries = LOAD '/user/mahi/sf-salaries-2014.csv' USING PigStorage(',')  as (id:int,name:chararray,designation:chararray,salary1:float,salary2:float,salary3:float,salary4:float,salary5:float,salary6:float,year:int,location:chararray);
+; 
+rich = FILTER salaries BY salary1 > 100000;STORE sortd INTO 'rich_empls_slaries.txt';
+sortd = ORDER rich by salary1 DES
+
