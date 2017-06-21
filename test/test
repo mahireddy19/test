@@ -1,6 +1,7 @@
 iam new to git
 i have add new file
 mahendra waste fellow
+<<<<<<< HEAD
 mkdir gitdemo   
 cd 
 git init
